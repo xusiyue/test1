@@ -13,4 +13,5 @@ public interface IdentityConstants {
     //String ADMIN="管理员";
     //yut
     //adb
+    //rjfh
 }
