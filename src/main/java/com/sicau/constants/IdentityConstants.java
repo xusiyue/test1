@@ -10,4 +10,5 @@ public interface IdentityConstants {
     String SUPERADMIN="超级管理员";
     String TEAMADMIN="团队管理员";
     String ADMIN="管理员";
+    //String ADMIN="管理员";
 }

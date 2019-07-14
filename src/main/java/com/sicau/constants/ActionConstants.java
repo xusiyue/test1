@@ -1,5 +1,6 @@
 package com.sicau.constants;
 
+
 /**
  * @program: software-market
  * @description: 行为
